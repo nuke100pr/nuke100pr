@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **A Utility App and Website**
+- 🔭 I’m currently working on **A Cricket Prediction Model**
 
-- 🌱 I’m currently learning **Flutter , React**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **github**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://github.com/nuke100pr](https://github.com/nuke100pr)
 
-- 💬 Ask me about **Android , React , Flutter**
+- 💬 Ask me about **Android , Mern , React**
 
 - 📫 How to reach me **prakharmaurya700@gmail.com**
 
